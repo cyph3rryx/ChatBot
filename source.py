@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "YOUR-API"
 
 def chatbot(prompt):
     completions = openai.Completion.create(
