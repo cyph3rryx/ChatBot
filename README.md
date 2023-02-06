@@ -1,4 +1,4 @@
-# ChatBot
+# ChatBot 
 This is a simple chatbot that uses the OpenAI ChatGPT model to generate responses to user input. The chatbot can be run from the command line, and will continue to run until the user types "exit".
 
 ## Prerequisites
@@ -33,5 +33,7 @@ You can customize the chatbot by modifying the code. Here are a few things you m
 ## Disclaimer
 
 This chatbot was developed for educational purposes only, and should not be used for any other purpose. OpenAI is not responsible for any consequences of using this chatbot.
+
+This chat bot must not be used for non educational purposes.
 
 ## NOTE: You need to enter your own OpenAI API in the chatbot to make it work. For that, you need to make a account on the OpenAI website and then get your API.
