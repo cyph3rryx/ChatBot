@@ -36,4 +36,8 @@ This chatbot was developed for educational purposes only, and should not be used
 
 This chat bot must not be used for non educational purposes.
 
+## License
+
+This project is under the MIT License. Check the LICENSE file for more info.
+
 ## NOTE: You need to enter your own OpenAI API in the chatbot to make it work. For that, you need to make a account on the OpenAI website and then get your API.
