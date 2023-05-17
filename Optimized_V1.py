@@ -2,8 +2,15 @@ import openai
 
 def chatbot(prompt, api_key):
     try:
-       
-    
+        completions = openai.Completion.create(
+            engine="text-davinci-002",
+            prompt=prompt,
+            max_tokens=1024,
+            n=1,
+            stop=None,
+            temperature=0.5,
+            api_key=api_key
+        )
         message = completions.choices[0].text
         return message
     except Exception as e:
