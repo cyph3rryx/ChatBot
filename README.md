@@ -5,8 +5,8 @@ This is a simple chatbot that uses the OpenAI ChatGPT model to generate response
 
 To run this chatbot, you will need to have the following installed:
 
-    Python 3
-    The openai module (install using pip install openai)
+    - Python 3
+    - The openai module (install using pip install openai)
 
 You will also need to have a valid OpenAI API key. You can obtain an API key by signing up for an OpenAI account.
 
