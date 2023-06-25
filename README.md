@@ -2,7 +2,6 @@
 This is a simple chatbot that uses the OpenAI ChatGPT model to generate responses to user input. The chatbot can be run from the command line, and will continue to run until the user types "exit".
 
 ## Prerequisites
-
 To run this chatbot, you will need to have the following installed:
 
     - Python 3
